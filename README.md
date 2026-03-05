@@ -54,7 +54,5 @@ Smart-Farming-Yield-2024/
 - Pre-computed efficiency scores
 - Ready for ML models, dashboards, research
 
+<img width="1519" height="946" alt="image" src="https://github.com/user-attachments/assets/c55c2406-4024-4354-a5c8-d58550ff5165" />
 
-***
-
-**Copy-paste ready for GitHub!** ✅ Zero mistakes, 100% accurate from your dataset.
